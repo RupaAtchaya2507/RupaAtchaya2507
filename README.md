@@ -120,12 +120,6 @@ Computer Science Student • AI Enthusiast • Full Stack Developer • Problem 
 
 </p>
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RupaAtchaya2507"/>
-
-</p>
-
 ---
 
 # 🌐 Let's Connect
