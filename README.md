@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Rupa Atchaya A S
 
-### B.Tech Computer Science Student | AI Enthusiast | Full Stack Developer
+### B.Tech Computer Science Student
 
 🎓 B.Tech CSE @ Amrita Vishwa Vidyapeetham, Chennai  
-💻 Passionate about AI, Full Stack Development, Cybersecurity, and Problem Solving  
+💻 Passionate about AI, Full Stack Development and Cybersecurity
 📄 Published Researcher | IEEE Author  
 🧩 Solved 450+ LeetCode Problems
 
