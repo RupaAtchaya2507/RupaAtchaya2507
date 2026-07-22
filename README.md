@@ -21,7 +21,7 @@ Computer Science Student • AI Enthusiast • Full Stack Developer • Problem 
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=RupaAtchaya2507&style=for-the-badge"/>
 </p>
 
 ---
@@ -36,9 +36,9 @@ Computer Science Student • AI Enthusiast • Full Stack Developer • Problem 
 
 🧩 Solved **450+ LeetCode Problems**
 
-🏆 Regular Hackathon Participant
-
 ✍️ Technical Blogger sharing insights on emerging technologies
+
+[![Medium](https://img.shields.io/badge/Medium-Read%20My%20Blogs-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rupaatchayasivakumar)
 
 ---
 
@@ -90,11 +90,17 @@ Computer Science Student • AI Enthusiast • Full Stack Developer • Problem 
 
 ---
 
-# 📚 Research
+## 📚 Research Publications
 
-📄 **Malware Explainable Graph Network**
+### 📄 MAL-XGNet: A Lightweight and Explainable Transformer-GNN Hybrid Model for Real-time Detection of Obfuscated Malware in Memory Dumps
 
-> Transformer–GNN based malware detection model published in **IEEE Xplore**
+[![Read Paper](https://img.shields.io/badge/Read%20Paper-IEEE%20Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11407545)
+
+---
+
+### 📄 Hybrid XGBoost-LSTM Framework for Adaptive Touch Behavior Biometrics: Addressing Behavioral Drift in Continuous Mobile Authentication
+
+[![Read Paper](https://img.shields.io/badge/Read%20Paper-IEEE%20Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11031584)
 
 ---
 
