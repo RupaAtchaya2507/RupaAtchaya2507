@@ -1,85 +1,173 @@
-# Hi there 👋, I'm Rupa Atchaya A S
+<h1 align="center">Hi 👋, I'm Rupa Atchaya A S</h1>
 
-### B.Tech Computer Science Student
+<h3 align="center">
+Computer Science Student • AI Enthusiast • Full Stack Developer • Problem Solver
+</h3>
 
-🎓 B.Tech CSE @ Amrita Vishwa Vidyapeetham, Chennai  
-💻 Passionate about AI, Full Stack Development and Cybersecurity
-📄 Published Researcher | IEEE Author  
-🧩 Solved 450+ LeetCode Problems
+<p align="center">
+  Passionate about building intelligent applications, solving real-world problems, and continuously learning emerging technologies.
+</p>
 
----
+<p align="center">
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-## 🚀 Projects
+  <a href="YOUR_LEETCODE_LINK">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 
-- 🛡️ Agentic AI for Automated Bug Bounties
-- 📊 AI-Powered Market Intelligence System for E-commerce Sellers
-- 🛒 Local Shop Product Finder Application
+  <a href="mailto:rupaatchaya2507@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
----
-
-## 💻 Tech Stack
-
-**Languages**
-
-Java • C • JavaScript
-
-**Frontend**
-
-HTML • CSS • React.js • Tailwind CSS
-
-**Backend**
-
-Node.js • Express.js • Flask
-
-**Database**
-
-MySQL
-
-**Tools**
-
-Git • GitHub • Docker • VS Code
-
-**Core CS**
-
-Data Structures & Algorithms • OOP • DBMS • Computer Networks • Operating Systems
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge"/>
+</p>
 
 ---
 
-## 📚 Research
+# 👩‍💻 About Me
 
-- Malware Explainable Graph Network (Transformer–GNN) – Published in IEEE Xplore
+🎓 B.Tech Computer Science Student at **Amrita Vishwa Vidyapeetham, Chennai**
 
----
+💡 Interested in **Artificial Intelligence, Full Stack Development, Cybersecurity, and Software Engineering**
 
-## 🏆 Achievements
+📄 Published Researcher with work in **AI-powered Malware Detection**
 
-- 🧩 450+ LeetCode Problems Solved
-- 📝 Published Researcher
-- 💡 Regular Hackathon Participant
-- ✍️ Technical Blogger
+🧩 Solved **450+ LeetCode Problems**
 
----
+🏆 Regular Hackathon Participant
 
-## 📜 Certifications
-
-- Cisco Networking Academy – Networking Basics
-- NPTEL – Cloud Computing
-- Microsoft & LinkedIn – Career Essentials in Generative AI
+✍️ Technical Blogger sharing insights on AI and software development
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+| Project | Repository |
+|---------|------------|
+| 🛡️ Agentic AI for Automated Bug Bounties | ⭐ View Repository |
+| 📊 AI-Powered Market Intelligence System | ⭐ View Repository |
+| 🛒 Local Shop Product Finder | ⭐ View Repository |
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME)
+</div>
 
 ---
 
-## 🌐 Connect with Me
+# 🛠️ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](YOUR_LINKEDIN_LINK)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](YOUR_LEETCODE_LINK)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:rupaatchaya2507@gmail.com)
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,c,js"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
+</p>
+
+---
+
+# 📚 Research
+
+📄 **Malware Explainable Graph Network**
+
+> Transformer–GNN based malware detection model published in **IEEE Xplore**
+
+---
+
+# 🏆 Achievements
+
+✨ 450+ Problems Solved on LeetCode
+
+✨ Published IEEE Research Author
+
+✨ Regular Hackathon Participant
+
+✨ Technical Blog Writer
+
+---
+
+# 📜 Certifications
+
+🎓 Cisco Networking Academy — Networking Basics
+
+🎓 NPTEL — Cloud Computing
+
+🎓 Microsoft & LinkedIn — Career Essentials in Generative AI
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME"/>
+
+</p>
+
+---
+
+# 🌐 Let's Connect
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="YOUR_LEETCODE_LINK">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="mailto:rupaatchaya2507@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
