@@ -9,11 +9,11 @@ Computer Science Student • AI Enthusiast • Full Stack Developer • Problem 
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="https://www.linkedin.com/in/rupa-atchaya-a-s-4042b82b8/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="YOUR_LEETCODE_LINK">
+  <a href="https://leetcode.com/u/Rupa_Atchaya2507/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 
@@ -32,13 +32,13 @@ Computer Science Student • AI Enthusiast • Full Stack Developer • Problem 
 
 💡 Interested in **Artificial Intelligence, Full Stack Development, Cybersecurity, and Software Engineering**
 
-📄 Published Researcher with work in **AI-powered Malware Detection**
+📄 Published Researcher 
 
 🧩 Solved **450+ LeetCode Problems**
 
 🏆 Regular Hackathon Participant
 
-✍️ Technical Blogger sharing insights on AI and software development
+✍️ Technical Blogger sharing insights on emerging technologies
 
 ---
 
@@ -48,9 +48,9 @@ Computer Science Student • AI Enthusiast • Full Stack Developer • Problem 
 
 | Project | Repository |
 |---------|------------|
-| 🛡️ Agentic AI for Automated Bug Bounties | ⭐ View Repository |
-| 📊 AI-Powered Market Intelligence System | ⭐ View Repository |
-| 🛒 Local Shop Product Finder | ⭐ View Repository |
+| 🛡️ Agentic AI for Automated Bug Bounties | ⭐ [View Repository](https://github.com/RupaAtchaya2507/AGENTIC-AI) |
+| 📊 AI-Powered Market Intelligence System | ⭐ [View Repository](https://github.com/RupaAtchaya2507/Market-Intelligence) |
+| 🛒 Local Shop Product Finder | ⭐ [View Repository](https://github.com/RupaAtchaya2507/Local_Shop_Product_Finder) |
 
 </div>
 
@@ -98,47 +98,25 @@ Computer Science Student • AI Enthusiast • Full Stack Developer • Problem 
 
 ---
 
-# 🏆 Achievements
-
-✨ 450+ Problems Solved on LeetCode
-
-✨ Published IEEE Research Author
-
-✨ Regular Hackathon Participant
-
-✨ Technical Blog Writer
-
----
-
-# 📜 Certifications
-
-🎓 Cisco Networking Academy — Networking Basics
-
-🎓 NPTEL — Cloud Computing
-
-🎓 Microsoft & LinkedIn — Career Essentials in Generative AI
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RupaAtchaya2507&show_icons=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupaAtchaya2507&layout=compact"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME"/>
+<img src="https://streak-stats.demolab.com?user=RupaAtchaya2507"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RupaAtchaya2507"/>
 
 </p>
 
@@ -148,11 +126,11 @@ Computer Science Student • AI Enthusiast • Full Stack Developer • Problem 
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/rupa-atchaya-a-s-4042b82b8/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="YOUR_LEETCODE_LINK">
+<a href="https://leetcode.com/u/Rupa_Atchaya2507/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
