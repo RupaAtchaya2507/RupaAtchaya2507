@@ -104,23 +104,6 @@ Computer Science Student • AI Enthusiast • Full Stack Developer • Problem 
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RupaAtchaya2507&show_icons=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupaAtchaya2507&layout=compact"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=RupaAtchaya2507"/>
-
-</p>
-
----
 
 # 🌐 Let's Connect
 
