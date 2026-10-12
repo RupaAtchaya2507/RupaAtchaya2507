@@ -34,12 +34,6 @@ Computer Science Student • AI Enthusiast • Full Stack Developer • Problem 
 
 📄 Published Researcher 
 
-🧩 Solved **450+ LeetCode Problems**
-
-✍️ Technical Blogger sharing insights on emerging technologies
-
-[![Medium](https://img.shields.io/badge/Medium-Read%20My%20Blogs-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rupaatchayasivakumar)
-
 ---
 
 # 🚀 Featured Projects
